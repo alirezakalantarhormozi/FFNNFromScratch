@@ -29,8 +29,8 @@ This project implements a simple Feedforward Neural Network (FFNN) in Python usi
 1. Clone the repo:
 
 ```bash
-git clone https://github.com/your-username/ffnn-from-scratch.git
-cd ffnn-from-scratch
+git clone https://github.com/alirezakalantarhormozi/FFNNFromScratch.git
+cd FFNNFromScratch
 ```
 
 2. Install dependencies:
@@ -73,7 +73,7 @@ Model(
 
 - `eta`: Learning rate
 - `alpha`: Momentum coefficient
-- You can change the number of hidden layers or neurons as needed
+- You can change the number of hidden layers or neurons as needed 
 
 ## 🔮 Future Work
 
@@ -87,3 +87,7 @@ Model(
 ## 📬 Contact
 
 If you have questions or ideas for improvement, feel free to open an issue or contact me.
+
+## 👤 Author
+Alireza Kalantarhormozi <br/>
+GitHub: @alirezakalantarhormozi
