@@ -54,7 +54,8 @@ python main.py
 
 ## 📉 Loss Curve Example
 
-After training, a plot of training and validation RMSE losses over epochs is displayed.
+After training, a plot of training and validation RMSE losses over epochs is displayed:
+![Alt Image](Plot.png)
 
 ## ⚙️ Configuration
 
